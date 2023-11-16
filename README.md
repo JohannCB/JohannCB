@@ -15,12 +15,12 @@ Curioso sobre o mundo da programação e estudante de SQL e Inteligencia Artific
 ##
 
 ### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/johann-castro-374975143">         
+&nbsp;<a href="https://www.linkedin.com/in/johann-castro-374975143">        
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 &nbsp;<a href="https://www.instagram.com/johan_castro_11/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>&nbsp;
-&nbsp;<a href="https://www.kaggle.com/johanncastrob"> 
-<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />         
+&nbsp;<a href="https://www.kaggle.com/johanncastrob">
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>&nbsp;
