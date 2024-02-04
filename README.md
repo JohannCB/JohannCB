@@ -1,8 +1,8 @@
 ### Johann Castro aqui :)
-Analista de dados e apaixonado pelo apredizado contínuo. Atualmente especialista em análise, tratamento e proposição de modelos baseados em dados.
+Cientista de dados e apaixonado pelo apredizado contínuo. Atualmente especialista em análise, tratamento e proposição de modelos baseados em dados.
 Curioso sobre o mundo da programação e estudante de SQL e Inteligencia Artificial nas horas vagas
 
-- 🖥️📊 **Analista de dados** na <a href="https://eesc.usp.br/"> Escola de Engenharia de São Carlos (EESC/USP)</a>
+- 🖥️📊 **Cientista de dados** na <a href="https://eesc.usp.br/"> Escola de Engenharia de São Carlos (EESC/USP)</a>
 - ⚙️🛢️ **Engenheiro Mecânico** no <a href="https://oscarmhrodriguez13.wixsite.com/lemi-usp"> Laboratório de Escoamentos Multifásicos Industriais (LEMI)</a>
 - 🐍 Apixonado por **Python**
 - 💻 Atualmente focado em:
