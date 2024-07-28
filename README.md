@@ -8,7 +8,6 @@ Curioso sobre o mundo da programação e estudante de SQL e Inteligencia Artific
 - 💻 Atualmente focado em:
 <div display="inline">
  &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70"/>&nbsp;&nbsp;
- &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70"/>&nbsp;&nbsp;
  &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70"/>&nbsp;&nbsp;
 </div>
           
