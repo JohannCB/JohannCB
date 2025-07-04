@@ -3,7 +3,7 @@ Cientista de dados e apaixonado pelo apredizado contínuo. Atualmente especialis
 Curioso sobre o mundo da programação e Inteligencia Artificial nas horas vagas.
 
 - 🖥️📊 **Cientista de dados** 
-- :soon: **PhD. (C) Engenharia Mecânica** na <a href="https://eesc.usp.br/"> Escola de Engenharia de São Carlos (EESC/USP)</a>
+- :soon: **PhD. Engenharia Mecânica** na <a href="https://eesc.usp.br/"> Escola de Engenharia de São Carlos (EESC/USP)</a>
 - :books: :mortar_board: **Researcher** no <a href="https://oscarmhrodriguez13.wixsite.com/lemi-usp"> Laboratório de Escoamentos Multifásicos Industriais (LEMI)</a>
 - 🐍 Apixonado por **Python**
 - :notebook: Atualmente focado em:
