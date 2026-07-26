@@ -5,7 +5,7 @@ Curioso sobre o mundo da programação e Inteligencia Artificial nas horas vagas
 - 🖥️📊 **Cientista de dados** 
 - :soon: **PhD. Engenharia Mecânica** na <a href="https://eesc.usp.br/"> Escola de Engenharia de São Carlos (EESC/USP)</a>
 - :books: :mortar_board: **Researcher** no <a href="https://oscarmhrodriguez13.wixsite.com/lemi-usp"> Laboratório de Escoamentos Multifásicos Industriais (LEMI)</a>
-- 🐍 Apixonado por **Python**
+- 🐍 Apaixonado por **Python**
 - :notebook: Atualmente focado em:
 <div style= "display: inline-block">
  &nbsp;&nbsp;<img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70"/>&nbsp;&nbsp;
